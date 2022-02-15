@@ -1,6 +1,12 @@
 package ru.homeworkapp;
 
-public class HomeWorkApp {
+/**
+ * Java 1. Homework #2
+ *
+ * @autor Marina Terekhova
+ * @version 14.02.2022
+ */
+class HomeWorkApp {
     public static void main(String[] args) {
         System.out.println(range10_20(7,16));
         positNegatPrint(0);
