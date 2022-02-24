@@ -1,5 +1,12 @@
 package ru.marina;
 
+/**
+ * Java 1. Homework #5
+ *
+ * @autor Marina Terekhova
+ * @version 24.02.2022
+ */
+
 public class Program {
     public static void main(String[] args) {
         Employee[] staff = new Employee[5];
